@@ -22,6 +22,6 @@ public class Cubo {
         cubo.setTipo(y);
 
         System.out.println(cubo);
-
+        input.close();
     }
 }
