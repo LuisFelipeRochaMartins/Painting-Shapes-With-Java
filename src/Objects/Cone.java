@@ -18,7 +18,7 @@ public class Cone {
 
     public void setAltura(double altura) {
         this.altura = altura;
-    }
+    }   
 
     public void setRaio(double raio) {
         this.raio = raio;
